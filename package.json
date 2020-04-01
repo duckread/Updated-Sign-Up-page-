@@ -1,0 +1,16 @@
+{
+  "name": "forms-sing-up",
+  "version": "1.0.0",
+  "description": "This is a sign up page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1"
+  }
+}
